@@ -20,6 +20,7 @@ I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Serv
 - 🌱 I am currently specializing in [Azure](https://azure.microsoft.com/es-es/)
 
 **languages and tools:**
+
 <code><img height="20" src="https://user-images.githubusercontent.com/52359896/160260158-84ac76a5-3b01-4ce8-ba27-82e65bfc1a8d.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/52359896/160260166-4236f6c9-408a-44bf-a8df-a19f31798fb0.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/52359896/160260168-ed901b1a-94b5-438d-a7ae-608af5f042d5.png"></code>
@@ -36,18 +37,4 @@ I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Serv
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nicovsandoval&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<!--
-**nicovsandoval/nicovsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Sinapsis
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
