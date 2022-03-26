@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Nicolás👋
+
+![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
 
 <!--
 **nicovsandoval/nicovsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
