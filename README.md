@@ -12,7 +12,7 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
+<br />
 
 I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.
 
