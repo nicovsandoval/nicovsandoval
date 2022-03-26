@@ -2,12 +2,13 @@
 
 ![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
 
+I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.
 <!--
 **nicovsandoval/nicovsandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Sinapsis
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
