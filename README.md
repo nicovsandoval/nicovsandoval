@@ -7,8 +7,9 @@
 <a href="https://twitter.com/nicovsandoval"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/nicovsandoval/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 </p>
+</br>
 
-I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.
+<p>I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.</p>
 
 - 🔭 I’m currently working on [Sinapsis Innovation](https://sinapsis.global/)
 - 🌱 I am currently specializing in [Azure](https://azure.microsoft.com/es-es/)
