@@ -2,6 +2,7 @@
 
 ![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
 
+<p float="left">
 <a href="https://www.instagram.com/nicovsandoval/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,6 +12,7 @@
 <a href="https://www.linkedin.com/in/nicovsandoval/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</p>
 
 I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.
 
@@ -19,6 +21,7 @@ I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Serv
 
 **languages and tools:**
 
+<p float="left">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260158-84ac76a5-3b01-4ce8-ba27-82e65bfc1a8d.png">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260166-4236f6c9-408a-44bf-a8df-a19f31798fb0.png">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260168-ed901b1a-94b5-438d-a7ae-608af5f042d5.png">
@@ -31,6 +34,7 @@ I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Serv
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260191-82aa3ee5-2d6b-4b27-949d-013622d63fc8.png">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260192-3c3cef7e-5637-42a5-8da7-f212cb4e4374.png">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260193-3b1ab6e2-f011-444c-9462-0349e1e8d1bd.png">
+</p>
 
 📈 **My github stats**
 
