@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on [Sinapsis Innovation](https://sinapsis.global/)
 - 🌱 I am currently specializing in [Azure](https://azure.microsoft.com/es-es/)
 
-**languages and tools:**
+**Languages and tools:**
 
 <p float="left">
 <img height="20" src="https://user-images.githubusercontent.com/52359896/160260158-84ac76a5-3b01-4ce8-ba27-82e65bfc1a8d.png">
