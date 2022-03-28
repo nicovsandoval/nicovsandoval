@@ -3,12 +3,16 @@
 ![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
 
 <p float="left">
-<a href="https://www.instagram.com/nicovsandoval/"><img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a href="https://twitter.com/nicovsandoval"><img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/nicovsandoval/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://www.instagram.com/nicovsandoval/"><img align="left" alt="Nicolas' Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+<a href="https://twitter.com/nicovsandoval"><img align="left" alt="Nicolas Naidu | Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://www.linkedin.com/in/nicovsandoval/"><img align="left" alt="Nicolas' LinkedIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<a href="https://dribbble.com/nicovsandoval"><img align="left" alt="Nicolas' Dribble" width="25px" src="https://user-images.githubusercontent.com/52359896/160501989-d34a5632-803c-48c4-80de-677b117ef69d.png" /></a>
+<a href="https://medium.com/@nicovsandoval"><img align="left" alt="Nicolas' Medium" width="25px" src="https://user-images.githubusercontent.com/52359896/160502000-b0420045-d8c6-4715-a9af-9bb2ca69998b.png" /></a>
 </p>
 </br>
 </br>
+![pngwing 1](https://user-images.githubusercontent.com/52359896/160501989-d34a5632-803c-48c4-80de-677b117ef69d.png)
+![image 23](https://user-images.githubusercontent.com/52359896/160502000-b0420045-d8c6-4715-a9af-9bb2ca69998b.png)
 
 <p>I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.</p>
 
