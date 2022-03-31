@@ -11,8 +11,6 @@
 </p>
 </br>
 </br>
-![pngwing 1](https://user-images.githubusercontent.com/52359896/160501989-d34a5632-803c-48c4-80de-677b117ef69d.png)
-![image 23](https://user-images.githubusercontent.com/52359896/160502000-b0420045-d8c6-4715-a9af-9bb2ca69998b.png)
 
 <p>I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.</p>
 
