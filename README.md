@@ -3,7 +3,7 @@
 ![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
 
 <p float="left">
-<a href="https://www.linkedin.com/in/nicovsandoval/"><img align="left" alt="Nicolas' LinkedIN" width="25px" src="https://github.com/nicovsandoval/nicovsandoval/assets/52359896/cf77c09a-4290-4697-84c6-c743f66767d8" /></a>
+<a href="https://www.linkedin.com/in/nicovsandoval"><img align="left" alt="Nicolas' LinkedIN" width="25px" src="https://github.com/nicovsandoval/nicovsandoval/assets/52359896/cf77c09a-4290-4697-84c6-c743f66767d8" /></a>
 <a href="https://dribbble.com/nicovsandoval"><img align="left" alt="Nicolas' Dribble" width="25px" src="https://user-images.githubusercontent.com/52359896/160501989-d34a5632-803c-48c4-80de-677b117ef69d.png" /></a>
 <a href="https://medium.com/@nicovsandoval"><img align="left" alt="Nicolas' Medium" width="25px" src="https://user-images.githubusercontent.com/52359896/160502000-b0420045-d8c6-4715-a9af-9bb2ca69998b.png" /></a>
 </p>
