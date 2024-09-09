@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás👋👨‍💻
 
-![github-banner](https://github.com/user-attachments/assets/cd51504b-2152-4482-93d5-9c37a93bbb5c)
+![github-banner](https://github.com/user-attachments/assets/b1c64796-e40c-4fd8-baca-853c8c6e155f)
 
 <p float="left">
 <a href="https://www.linkedin.com/in/nicovsandoval"><img align="left" alt="Nicolas' LinkedIN" width="25px" src="https://github.com/nicovsandoval/nicovsandoval/assets/52359896/cf77c09a-4290-4697-84c6-c743f66767d8" /></a>
@@ -10,7 +10,7 @@
 </br>
 </br>
 
-<p>I'm a Systems Engineer, Specialist in BackEnd development with .NET and SQL Server, with experience working with the Azure Cloud with IaaS and PaaS resources. I have also worked in the areas of architecture design, Pentesting and DevOps.</p>
+<p>I am a Software Engineer with a specialization in Software Architecture and Backend Development, particularly with .NET and SQL Server. My expertise extends to working with Azure Cloud, focusing on both IaaS and PaaS resources. Additionally, I have experience in architecture design, Pentesting, and DevSecOps.</p>
 
 - 🔭 I’m currently working on [Sinapsis Innovation](https://sinapsis.global/)
 - 🌱 I am currently specializing in [Azure](https://azure.microsoft.com/es-es/)
