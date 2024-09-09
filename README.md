@@ -1,6 +1,6 @@
 # Hi, I'm Nicolás👋👨‍💻
 
-![github-banner](https://user-images.githubusercontent.com/52359896/160258724-dfe0f413-c895-42e9-82b6-86928ba873c5.png)
+![github-banner](https://github.com/user-attachments/assets/cd51504b-2152-4482-93d5-9c37a93bbb5c)
 
 <p float="left">
 <a href="https://www.linkedin.com/in/nicovsandoval"><img align="left" alt="Nicolas' LinkedIN" width="25px" src="https://github.com/nicovsandoval/nicovsandoval/assets/52359896/cf77c09a-4290-4697-84c6-c743f66767d8" /></a>
