@@ -11,10 +11,10 @@
 </br>
 </br>
 
-<p>I am a Software Engineer with a specialization in Software Architecture and Backend Development, particularly with .NET and SQL Server. My expertise extends to working with Azure Cloud, focusing on both IaaS and PaaS resources. Additionally, I have experience in architecture design, Pentesting, and DevSecOps.</p>
+<p>I'm a Software Engineer with a specialization in Software Architecture and Backend Development, particularly with .NET and SQL Server. My expertise extends to working with Azure Cloud, focusing on both IaaS and PaaS resources. Additionally, I have experience in architecture design, Pentesting, and DevSecOps.</p>
 
-- 🔭 I’m currently working on [Sinapsis Innovation](https://sinapsis.global/)
-- 🌱 I am currently specializing in [Azure](https://azure.microsoft.com/es-es/)
+- 🔭 I'm currently working on [Sinapsis Innovation](https://sinapsis.global/)
+- 🌱 I'm currently specializing in [Azure](https://azure.microsoft.com/es-es/)
 
 **Languages and tools:**
 
